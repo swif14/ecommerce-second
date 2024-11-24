@@ -1,0 +1,579 @@
+@font-face {
+    font-family: "Plus Jakarta Sans";
+    src: url("fonts/PlusJakartaSans-VariableFont_wght.ttf");
+}
+
+body {
+    font-family: "Plus Jakarta Sans";
+}
+
+.heading-title {
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 21px;
+    color: #7E7E7E;
+}
+
+.input-search {
+    width: 440px;
+    height: 48px;
+    border-radius: 12px;
+    box-shadow: 0px 0px 4px 0px #00000026;
+    border: 0;
+    outline: none;
+    padding-left: 50px;
+    background-image: url("Icon.png");
+    background-repeat: no-repeat;
+    background-position:10px center;
+}
+
+.Search-button {
+    width: 100.2px;
+    height: 48px;
+    border-radius: 12px;
+    border: 0;
+    box-shadow: 0px 5px 6px 0px #00000026;
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 48px;
+}
+
+.hotline {
+    font-size: 15px;
+    line-height: 21px;
+    font-weight: 700;
+    margin: 0;
+}
+
+.ptext {
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 27px;
+    color: #9B9B9B;
+}
+
+.rounded-circle {
+    background-color: #2EBB77;
+    width: 18px;
+    height: 18px;
+    text-align: center;
+}
+
+.button {
+    border: 0;
+}
+
+.ptag1 {
+    position: absolute;
+    right: 4.2px;
+}
+
+.ptext1 {
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 18.9px;
+    color: #2EBB77;
+}
+
+.toggler {
+    color:#2EBB77;
+    outline: none;
+}
+
+.dropdown-toggle {
+    color: #9B9B9B;
+}
+
+.ptext2 {
+    color: #000000;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 18.9px;
+}
+
+.ptext3 {
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 21px;
+}
+
+.span1 {
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 21px;
+    color: #2EBB77;
+    margin-left: 3px;
+}
+
+.column1 {
+    background-color: #E5F4ED;
+}
+
+.ptext4 {
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 32px;
+    text-align: center;
+    color: #7E7E7E;
+}
+
+.button1 {
+    width: 179.66px;
+    height: 48px;
+    border-radius: 12px;
+    opacity: 0px;
+    background-color: #2EBB77;
+    border: 0;
+    outline: none;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 48px;
+    text-align: center;
+    display: block;
+    margin: auto;
+}
+
+.h3 {
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 39.2px;
+    text-align: left;
+}
+
+.ptag2 {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 28px;
+}
+
+.sup {
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 21px;
+    color: #7E7E7E;
+}
+
+.banner1 {
+    background-image: url("Link\ →\ banner-26.png.png");
+    background-repeat: no-repeat;
+    border-radius: 12px;
+}
+
+.banner2 {
+    background-image: url("Link\ →\ banner-27.jpg.png");
+    background-repeat: no-repeat;
+    border-radius: 12px;
+}
+
+.text1 {
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 44.8px;
+    text-align: left;
+}
+
+.text2 {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32.4px;
+    text-align: left;
+    color: #7E7E7E;
+}
+
+.button2 {
+    width: 172.38px;
+    height: 48px;
+    border-radius: 12px;
+    background-color: #2EBB77;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 48px;
+    border: 0;
+    outline: none;
+    background-image: url("Vector\ \(1\).png");
+    background-repeat: no-repeat;
+    background-position: 145px center;
+}
+
+.ptext5 {
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 44.8px;
+}
+
+.span2 {
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 44.8px;
+    color: #9B9B9B99;
+}
+
+.span3 {
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 44.8px;
+    color: #9B9B9B99;
+}
+
+.ptag3 {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25.2px;
+    text-align: center;
+}
+
+.span4 {
+    font-size: 13.6px;
+    font-weight: 500;
+    line-height: 24.48px;
+    text-decoration-line: line-through;
+    color: #9B9B9B;
+}
+
+.ptag4 {
+    color: #2EBB77;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 28.8px;
+    text-align: center;
+}
+
+.sell3 {
+    background-image: url("Link\ →\ 17-2-330x440.jpg.png");
+    background-repeat: no-repeat;
+    height: 350px;
+    width: 270px;
+    background-size: cover;
+
+
+}
+
+.button3 {
+    width: 49.95px;
+    height: 22.39px;
+    border-radius: 3px;
+    background-color: #F09155;
+    color: white;
+    border: 0;
+    outline: none;
+    margin: 10px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 22.4px;
+    text-align: center;
+}
+
+.sell5 {
+     background-image: url("Link\ →\ 17-330x440.jpg.png");
+     background-repeat: no-repeat;
+     height: 350px;
+     width: 270px;
+     background-size: cover;
+}
+
+.button4 {
+    width: 49.75px;
+    height: 22.39px;
+    border-radius: 3px;
+    opacity: 0px;
+    background-color: #2EBB77;
+    color: white;
+    border: 0;
+    outline: none;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 22.4px;
+    text-align: center;
+    
+}
+
+.button5 {
+    width: 49.95px;
+    height: 22.39px;
+    border-radius: 3px;
+    background-color: #F09155;
+    color: white;
+    border: 0;
+    outline: none;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 22.4px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.ptag5 {
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 39.2px;
+    text-align: left;
+}
+
+.button6 {
+    width: 137.58px;
+    height: 48px;
+    border-radius: 12px;
+    border: 2px solid #dadada;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 44px;
+    background-image: url("Icon\ \(1\).png");
+    background-position:106px center;
+    background-repeat: no-repeat;
+    float: right;
+}
+
+.card2 {
+    background-image: url("Link\ →\ 2-330x440.jpg.png");
+    background-repeat: no-repeat;
+    height: 350px;
+    border: 0;
+    border-radius: 12px;
+    background-size: cover;
+}
+
+.button7 {
+    width: 45.8px;
+    height: 22.39px;
+    border-radius: 3px;
+    border: 0;
+    outline: none;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 22.4px;
+    text-align: center;
+    color: white;
+    background-color: #B479D9;
+}
+
+.plus3 {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 25.2px;
+    text-align: center;
+}
+
+.images {
+   margin-left: 100px;
+}
+
+.card3 {
+    background-image: url("Link\ →\ 4-12-330x440.jpg.png");
+    background-repeat: no-repeat;
+    height: 350px;
+    border: 0;
+    border-radius: 12px;
+    background-size: cover;
+}
+
+.card4 {
+    background-image: url("Link\ →\ 1-4-330x440.jpg.png");
+    background-repeat: no-repeat;
+    height: 350px;
+    border: 0;
+    border-radius: 12px;
+    background-size: cover;
+}
+
+.card5 {
+    background-image: url("Link\ →\ 17-330x440.jpg.png");
+    background-repeat: no-repeat;
+    height: 350px;
+    border: 0;
+    border-radius: 12px;
+    background-size: cover;
+    
+}
+
+.column2 {
+    background-color: #B479D926;
+    height: 80vh;
+    border-radius: 12px;
+}
+
+.ptag6 {
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 39.2px;
+    text-align: center;
+}
+
+.but1 {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    border: 0;
+    background-color: #2EBB77;
+    box-shadow: 0px 7px 30px 0px #00000021;
+    color: white;
+    margin-top: 4px;
+}
+
+.p1 {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25.2px;
+    margin-left: 10px;
+}
+
+.but2 {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px ;
+    opacity: 0px;
+    box-shadow: 0px 7px 30px 0px #00000021;
+    border: 0;
+    color: #2EBB77;
+}
+
+.ptag7 {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25.2px;
+    text-align: left;
+    margin-top: 10px;
+    margin: 0;
+}
+
+.ptag8 {
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 27px;
+    text-align: left;
+    color: #7E7E7E;
+}
+
+.but6 {
+    width: 150.77px;
+    height: 48px;
+    border-radius: 12px ;
+    border: 2px solid #EEEEEE;
+    background-color: white;
+    background-image: url("Icon\ \(1\).png");
+    background-position:117px center;
+    background-repeat: no-repeat;
+    margin-top: 20px;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 44px;
+}
+
+.background1 {
+    background-image: url("fd6054921f4014630980f63c9700b3dd.png");
+    background-repeat: no-repeat;
+    height: 430px;
+    width: 100%;
+    border-radius: 12px;
+}
+
+.background2 {
+    background-color:#E5F4ED;
+    background-repeat: no-repeat;
+    height: 430px;
+    width: 100%;
+    border-radius: 12px;
+}
+
+.h33 {
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 39.2px;
+    text-align: left;
+}
+
+.ptext6 {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 32.4px;
+    text-align: left;
+    color: #7E7E7E;
+}
+
+.img1 {
+    box-shadow: 0px 0px 10px 0px #00000012;
+    border-radius: 12px;
+    background-color: #FFFFFF01;
+}
+
+.ptext8 {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+    color: #000000;
+}
+
+.cols {
+    margin-top: 100px;
+}
+
+.p3 {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25.2px;
+    margin-top: 10px;
+    margin-left: 7px;
+}
+
+.span5 {
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 27px;
+    color: #9B9B9B;
+    margin-left: 4px;
+}
+
+.ptext9 {
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 39.2px;
+    text-align: center;
+}
+
+.input2 {
+    width: 705px;
+    height: 56px;
+    border-radius: 12px ;
+    border: 1px solid #FFFFFF;
+    opacity: 0px;
+    outline: none;
+    box-shadow: 0px 15px 50px 0px #00000014;
+    background-image: url("Icon\ \(1\).png");
+    background-repeat: no-repeat;
+    background-position: center right;
+}
+
+.list {
+    margin-top: 75px;
+}
+
+.text1 {
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 39.2px;
+    text-align: left;
+}
+
+.text3 {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 28px;
+    text-align: left;
+}
+
+.text4 {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28.8px;
+    color: #7E7E7E;
+}
+
+
+.payment {
+    float: right;
+    margin-top: 31px;
+}
